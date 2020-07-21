@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -46,7 +46,7 @@ public class GameGUI : MonoBehaviour
 
     private void UpdateHealthCount( int hitPoints )
     {
-        //Remember that this is pretty innefficent!
+        //Remember that this is pretty inefficient!
 
         for ( int i = 0; i < hitPointIndicators.Count; i++ )
         {
@@ -65,34 +65,5 @@ public class GameGUI : MonoBehaviour
     {
         Scene scene = SceneManager.GetActiveScene();
         SceneManager.LoadScene( scene.name );
-    }
-
-    private void UpdateScore()
-    {
-        int newScore = ( int ) player.transform.position.x;
-        scoreText.text = "Score: " + newScore;
-
-        if( newScore > highScore )
-        {
-            NewHighScore( newScore );
-        }
-
-        highScoreText.text = "High Score: " + highScore;
-    }
-
-    private void NewHighScore( int newScore )  
-    {
-        highScore = newScore;
-
-        if( dataController != null )
-        {
-            dataController.SaveData( newScore );
-        }
-
-        if ( hasSetHighScore == false && newHighScoreAnimator )
-        {
-            hasSetHighScore = true;
-            newHighScoreAnimator.SetTrigger( "Show" );
-        }
     }
 }

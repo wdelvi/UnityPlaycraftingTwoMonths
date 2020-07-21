@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -12,7 +12,7 @@ public class GroundDetector : MonoBehaviour
         isOnGround = false;
 	}
 
-    public void OnCollisionEnter2D( Collision2D collision )
+    public void OnCollisionStay2D( Collision2D collision )
     {
         if( collision.collider.gameObject.layer == 8 )
         {
