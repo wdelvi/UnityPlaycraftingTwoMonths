@@ -1,0 +1,2209 @@
+fileFormatVersion: 2
+guid: 43059279393e9451e8aa1b06b6f1cc61
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3605285236067844410
+    second: Goomba_0
+  - first:
+      213: 7950366051213280161
+    second: Goomba_1
+  - first:
+      213: -7650731690592790286
+    second: Goomba_2
+  - first:
+      213: -4962605896082770781
+    second: Goomba_3
+  - first:
+      213: 4588767057806623880
+    second: Goomba_4
+  - first:
+      213: 3442536211548109189
+    second: Goomba_5
+  - first:
+      213: -5499200665748129831
+    second: Goomba_6
+  - first:
+      213: -7839847250929431333
+    second: Goomba_7
+  - first:
+      213: 4036844298436609762
+    second: Goomba_8
+  - first:
+      213: -9163925622942627508
+    second: Goomba_9
+  - first:
+      213: -2710535451680060731
+    second: Goomba_10
+  - first:
+      213: -324066771367630766
+    second: Goomba_11
+  - first:
+      213: 6304673802591333134
+    second: Goomba_12
+  - first:
+      213: 8199874418125853780
+    second: Goomba_13
+  - first:
+      213: -6592538928553735620
+    second: Goomba_14
+  - first:
+      213: 818682096557899416
+    second: Goomba_15
+  - first:
+      213: 2392250822488631340
+    second: Goomba_16
+  - first:
+      213: -6016331473362968117
+    second: Goomba_17
+  - first:
+      213: -3082210144924756332
+    second: Goomba_18
+  - first:
+      213: 7365506689662122093
+    second: Goomba_19
+  - first:
+      213: -6781606627074510587
+    second: Goomba_20
+  - first:
+      213: 6769822317501611072
+    second: Goomba_21
+  - first:
+      213: -2692058352995139160
+    second: Goomba_22
+  - first:
+      213: 3384971622781687164
+    second: Goomba_23
+  - first:
+      213: -1274268844133677744
+    second: Goomba_24
+  - first:
+      213: -2409535787796560979
+    second: Goomba_25
+  - first:
+      213: 6476131128005711750
+    second: Goomba_26
+  - first:
+      213: -901767541736644523
+    second: Goomba_27
+  - first:
+      213: 7360412361724207726
+    second: Goomba_28
+  - first:
+      213: 8707568543982259041
+    second: Goomba_29
+  - first:
+      213: 2505649674620179067
+    second: Goomba_30
+  - first:
+      213: 4431858860222526858
+    second: Goomba_31
+  - first:
+      213: 8358680710174153243
+    second: Goomba_32
+  - first:
+      213: 3535288709668972582
+    second: Goomba_33
+  - first:
+      213: -8846019045959329629
+    second: Goomba_34
+  - first:
+      213: -3090504326208087043
+    second: Goomba_35
+  - first:
+      213: -3566594251214875927
+    second: Goomba_36
+  - first:
+      213: 5285469707875429678
+    second: Goomba_37
+  - first:
+      213: -3547617779642310067
+    second: Goomba_38
+  - first:
+      213: -5497074547189144506
+    second: Goomba_39
+  - first:
+      213: 7995722716916425464
+    second: Goomba_40
+  - first:
+      213: -4894004076556627927
+    second: Goomba_41
+  - first:
+      213: 5636097130687659858
+    second: Goomba_42
+  - first:
+      213: 8187009185479592210
+    second: Goomba_43
+  - first:
+      213: -4669220115588427671
+    second: Goomba_44
+  - first:
+      213: 2324653375038797964
+    second: Goomba_45
+  - first:
+      213: 2569932702959366431
+    second: Goomba_46
+  - first:
+      213: -6945865853591338735
+    second: Goomba_47
+  - first:
+      213: -6330402643102448462
+    second: Goomba_48
+  - first:
+      213: 3201989126597539952
+    second: Goomba_49
+  - first:
+      213: 434297037334055220
+    second: Goomba_50
+  - first:
+      213: 7074687838338253258
+    second: Goomba_51
+  - first:
+      213: -2213168701868398336
+    second: Goomba_52
+  - first:
+      213: 3810492274220417606
+    second: Goomba_53
+  - first:
+      213: -1397218687993576620
+    second: Goomba_54
+  - first:
+      213: 7417693706365577793
+    second: Goomba_55
+  - first:
+      213: 3124508725856507866
+    second: Goomba_56
+  - first:
+      213: 6795637069568521880
+    second: Goomba_57
+  - first:
+      213: -8438394139986838658
+    second: Goomba_58
+  - first:
+      213: -710217217567311570
+    second: Goomba_59
+  - first:
+      213: 1880394878713298785
+    second: Goomba_60
+  - first:
+      213: -1981479176129608692
+    second: Goomba_61
+  - first:
+      213: 2180274619997306720
+    second: Goomba_62
+  - first:
+      213: -1893932202966810290
+    second: Goomba_63
+  - first:
+      213: 2069269936272027223
+    second: Goomba_64
+  - first:
+      213: 6590188931327549937
+    second: Goomba_65
+  - first:
+      213: -6898975287351478315
+    second: Goomba_66
+  - first:
+      213: 2039361772308934239
+    second: Goomba_67
+  - first:
+      213: 4715842807405234007
+    second: Goomba_68
+  - first:
+      213: -4049647594881827267
+    second: Goomba_69
+  - first:
+      213: 9196040840082251082
+    second: Goomba_70
+  - first:
+      213: -3900022001540876316
+    second: Goomba_71
+  - first:
+      213: -7850469120830497028
+    second: Goomba_72
+  - first:
+      213: 6575447846481981305
+    second: Goomba_73
+  - first:
+      213: 2188194667374467960
+    second: Goomba_74
+  - first:
+      213: -1556700851682741898
+    second: Goomba_75
+  - first:
+      213: 8473290622858706961
+    second: Goomba_76
+  - first:
+      213: -3326778501382286957
+    second: Goomba_0
+  - first:
+      213: -173658685774860634
+    second: Goomba_1
+  - first:
+      213: 8056340493748672891
+    second: Goomba_2
+  - first:
+      213: -8197792940736603834
+    second: Goomba_3
+  - first:
+      213: -8553384598781560219
+    second: Goomba_4
+  - first:
+      213: 4739536064139737312
+    second: Goomba_5
+  - first:
+      213: -3403312086428277025
+    second: Goomba_6
+  - first:
+      213: 3552530077865147928
+    second: Goomba_7
+  - first:
+      213: -6072525475665115846
+    second: Goomba_8
+  - first:
+      213: 4066488648952821106
+    second: Goomba_9
+  - first:
+      213: -245131193833348781
+    second: Goomba_10
+  - first:
+      213: -6117482986042271508
+    second: Goomba_11
+  - first:
+      213: -5425959072593870762
+    second: Goomba_12
+  - first:
+      213: 3889521646278292356
+    second: Goomba_13
+  - first:
+      213: 3150132016714556597
+    second: Goomba_14
+  - first:
+      213: -9151871307672968620
+    second: Goomba_15
+  - first:
+      213: -3331806022857601938
+    second: Goomba_16
+  - first:
+      213: 7336567810961460372
+    second: Goomba_17
+  - first:
+      213: -4592131569789248895
+    second: Goomba_18
+  - first:
+      213: -2188254252368813286
+    second: Goomba_19
+  - first:
+      213: 3641785949798903848
+    second: Goomba_20
+  - first:
+      213: 827243840712668587
+    second: Goomba_21
+  - first:
+      213: -2998625138917686651
+    second: Goomba_22
+  - first:
+      213: 5630147589036799910
+    second: Goomba_23
+  - first:
+      213: 1826421592335907141
+    second: Goomba_24
+  - first:
+      213: -6890279946359699219
+    second: Goomba_25
+  - first:
+      213: -5203905581842644321
+    second: Goomba_26
+  - first:
+      213: 1981073599870862229
+    second: Goomba_27
+  - first:
+      213: -4646746925168281768
+    second: Goomba_28
+  - first:
+      213: 7864980252174153041
+    second: Goomba_29
+  - first:
+      213: 4220184167149334394
+    second: Goomba_30
+  - first:
+      213: -8351064551952864207
+    second: Goomba_31
+  - first:
+      213: -1027907014260317589
+    second: Goomba_32
+  - first:
+      213: -3507288432389721749
+    second: Goomba_33
+  - first:
+      213: 6805652485942349968
+    second: Goomba_34
+  - first:
+      213: -4191576376834814800
+    second: Goomba_35
+  - first:
+      213: -2553906375206899092
+    second: Goomba_36
+  - first:
+      213: -3267664682967874542
+    second: Goomba_37
+  - first:
+      213: -4104872113824185272
+    second: Goomba_38
+  - first:
+      213: 7236198976595740951
+    second: Goomba_39
+  - first:
+      213: 6761355494607536531
+    second: Goomba_40
+  - first:
+      213: -4075182924889815649
+    second: Goomba_41
+  - first:
+      213: 6841993500300809445
+    second: Goomba_42
+  - first:
+      213: -6508506396218284261
+    second: Goomba_43
+  - first:
+      213: 3917418118263520207
+    second: Goomba_44
+  - first:
+      213: 1727578514723742608
+    second: Goomba_45
+  - first:
+      213: -8754561670850098191
+    second: Goomba_46
+  - first:
+      213: -5484763342645889292
+    second: Goomba_47
+  - first:
+      213: -2639475147679509591
+    second: Goomba_48
+  - first:
+      213: -7621787063708722588
+    second: Goomba_49
+  - first:
+      213: 5557123421668348379
+    second: Goomba_50
+  - first:
+      213: -6904549009397623157
+    second: Goomba_51
+  - first:
+      213: -8749092135203437868
+    second: Goomba_52
+  - first:
+      213: 5861123743179451647
+    second: Goomba_53
+  - first:
+      213: -8597071809840957753
+    second: Goomba_54
+  - first:
+      213: 8686755875403903983
+    second: Goomba_55
+  - first:
+      213: -5920461740362906808
+    second: Goomba_56
+  - first:
+      213: 477656537917655458
+    second: Goomba_57
+  - first:
+      213: -2823428176346933750
+    second: Goomba_58
+  - first:
+      213: -3859448705093286141
+    second: Goomba_59
+  - first:
+      213: -5267115362694029362
+    second: Goomba_60
+  - first:
+      213: -7612710183533712446
+    second: Goomba_61
+  - first:
+      213: -1947361108667571409
+    second: Goomba_62
+  - first:
+      213: -7148956919583361414
+    second: Goomba_63
+  - first:
+      213: 1435540918400489245
+    second: Goomba_64
+  - first:
+      213: -8109102042755510454
+    second: Goomba_65
+  - first:
+      213: -4889574641972937670
+    second: Goomba_66
+  - first:
+      213: 1240731933513039790
+    second: Goomba_67
+  - first:
+      213: 4650300869986497110
+    second: Goomba_68
+  - first:
+      213: -1308514481426917819
+    second: Goomba_69
+  - first:
+      213: -1430233027300481877
+    second: Goomba_70
+  - first:
+      213: -1715248382269293944
+    second: Goomba_71
+  - first:
+      213: 6588679823981224267
+    second: Goomba_72
+  - first:
+      213: 8872387627924618792
+    second: Goomba_73
+  - first:
+      213: 3692172113636624250
+    second: Goomba_74
+  - first:
+      213: -2267578947165367257
+    second: Goomba_75
+  - first:
+      213: 2385830456092776809
+    second: Goomba_76
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Goomba_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 327
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391d3ba3498e4d1d0800000000000000
+      internalID: -3326778501382286957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 327
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae6a3a685a079df0800000000000000
+      internalID: -173658685774860634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 327
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b791c77aefeddcf60800000000000000
+      internalID: 8056340493748672891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_3
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 327
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649903111c69b3e80800000000000000
+      internalID: -8197792940736603834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_4
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 327
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56af35276064c4980800000000000000
+      internalID: -8553384598781560219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_5
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 327
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8b33f60f636c140800000000000000
+      internalID: 4739536064139737312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_6
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 327
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd626ac50b105c0d0800000000000000
+      internalID: -3403312086428277025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_7
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 326
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81efa01a84f1d4130800000000000000
+      internalID: 3552530077865147928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_8
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 326
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a358875e04e0abba0800000000000000
+      internalID: -6072525475665115846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_9
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 326
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275bdfb81e11f6830800000000000000
+      internalID: 4066488648952821106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 290
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351223c5a7e199cf0800000000000000
+      internalID: -245131193833348781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_11
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 290
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce85471d2a55a1ba0800000000000000
+      internalID: -6117482986042271508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_12
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 290
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6500c30b8fe13b4b0800000000000000
+      internalID: -5425959072593870762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_13
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 290
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4833c98645b5af530800000000000000
+      internalID: 3889521646278292356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 290
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b42bdb016487bb20800000000000000
+      internalID: 3150132016714556597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_15
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 290
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452201cc8850ef080800000000000000
+      internalID: -9151871307672968620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_16
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 290
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cc01b231c03c1d0800000000000000
+      internalID: -3331806022857601938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_17
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 290
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c4ce2ad89b0d560800000000000000
+      internalID: 7336567810961460372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_18
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 290
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18adadcdaa87540c0800000000000000
+      internalID: -4592131569789248895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_19
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 290
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13a151f952c1a1e0800000000000000
+      internalID: -2188254252368813286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 246
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820b5cdb6093a8230800000000000000
+      internalID: 3641785949798903848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_21
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 251
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5fe44e3e5fa7b00800000000000000
+      internalID: 827243840712668587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 251
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5824144d25eb266d0800000000000000
+      internalID: -2998625138917686651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_23
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 251
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a77f85076d422e40800000000000000
+      internalID: 5630147589036799910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 251
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549f84de2c0c85910800000000000000
+      internalID: 1826421592335907141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_25
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 252
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de88b3225eec060a0800000000000000
+      internalID: -6890279946359699219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_26
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 252
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92c89dd17308c7b0800000000000000
+      internalID: -5203905581842644321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_27
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 252
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593053261ff2e7b10800000000000000
+      internalID: 1981073599870862229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_28
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 252
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857b4348a40738fb0800000000000000
+      internalID: -4646746925168281768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_29
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 266
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1557d407ed5062d60800000000000000
+      internalID: 7864980252174153041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 204
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fe9a9f32b119a30800000000000000
+      internalID: 4220184167149334394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_31
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 207
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c2e7c290f0b1c80800000000000000
+      internalID: -8351064551952864207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_32
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 204
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62a1e044042cb1f0800000000000000
+      internalID: -1027907014260317589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_33
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 166
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61f29ec0cb935fc0800000000000000
+      internalID: -3507288432389721749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_34
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 166
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0901959c0e8827e50800000000000000
+      internalID: 6805652485942349968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_35
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 166
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc87d14e7784d5c0800000000000000
+      internalID: -4191576376834814800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_36
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 165
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62ff24dea3be8cd0800000000000000
+      internalID: -2553906375206899092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_37
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 166
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2144c9e984ce6a2d0800000000000000
+      internalID: -3267664682967874542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_38
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 167
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8444a1f9f809807c0800000000000000
+      internalID: -4104872113824185272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_39
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 166
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719c80451a42c6460800000000000000
+      internalID: 7236198976595740951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_40
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 166
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391c738cff825dd50800000000000000
+      internalID: 6761355494607536531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_41
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 166
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95843798ba0277c0800000000000000
+      internalID: -4075182924889815649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_42
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 166
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e416fc86d4a3fe50800000000000000
+      internalID: 6841993500300809445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_43
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 165
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b172d0b8ae32da5a0800000000000000
+      internalID: -6508506396218284261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_44
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 167
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbb6cfe5077d5630800000000000000
+      internalID: 3917418118263520207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_45
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 137
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093a4bb818799f710800000000000000
+      internalID: 1727578514723742608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_46
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 137
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbcab44b8c818680800000000000000
+      internalID: -8754561670850098191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_47
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 137
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6f184acc432e3b0800000000000000
+      internalID: -5484763342645889292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_48
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 137
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a357157653be5bd0800000000000000
+      internalID: -2639475147679509591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_49
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 137
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a59f92c09f93690800000000000000
+      internalID: -7621787063708722588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_50
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 138
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd19b812f4ede1d40800000000000000
+      internalID: 5557123421668348379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_51
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 137
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b865490024d1e20a0800000000000000
+      internalID: -6904549009397623157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_52
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 137
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d20906ce0bf49680800000000000000
+      internalID: -8749092135203437868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_53
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 145
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffca1d8adf4e65150800000000000000
+      internalID: 5861123743179451647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_54
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 145
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6b7e9fcb011b880800000000000000
+      internalID: -8597071809840957753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_55
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 142
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3bcfbb17e8d8870800000000000000
+      internalID: 8686755875403903983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_56
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 106
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843c0634a6b46dda0800000000000000
+      internalID: -5920461740362906808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_57
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 107
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9893b271af0a600800000000000000
+      internalID: 477656537917655458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_58
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 107
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a061304680b21d8d0800000000000000
+      internalID: -2823428176346933750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_59
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 107
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307c218d9db707ac0800000000000000
+      internalID: -3859448705093286141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_60
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 107
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf9e97eb7277e6b0800000000000000
+      internalID: -5267115362694029362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_61
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 108
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb69740c683a5690800000000000000
+      internalID: -7612710183533712446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_62
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 108
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f236574a36599f4e0800000000000000
+      internalID: -1947361108667571409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_63
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 108
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76b9a5fe8dc9cc90800000000000000
+      internalID: -7148956919583361414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_64
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 107
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d179cc50cd01ce310800000000000000
+      internalID: 1435540918400489245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_65
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 108
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fc92ee7aea67f80800000000000000
+      internalID: -8109102042755510454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_66
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 108
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3cf17ae4cdb42cb0800000000000000
+      internalID: -4889574641972937670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_67
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 108
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf378eae17f73110800000000000000
+      internalID: 1240731933513039790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_68
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 108
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6523c3eb000398040800000000000000
+      internalID: 4650300869986497110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_69
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 108
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546181f030937dde0800000000000000
+      internalID: -1308514481426917819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_70
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 74
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba429bda3aac62ce0800000000000000
+      internalID: -1430233027300481877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_71
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 78
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a76412fa63238e0800000000000000
+      internalID: -1715248382269293944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_72
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 75
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b412f2f3461bf6b50800000000000000
+      internalID: 6588679823981224267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_73
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 73
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e74082a8d012b70800000000000000
+      internalID: 8872387627924618792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_74
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 38
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a770ae2b9fa3d3330800000000000000
+      internalID: 3692172113636624250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_75
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 8
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724dd0236f0f780e0800000000000000
+      internalID: -2267578947165367257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_76
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 8
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969d7bdb82c2c1120800000000000000
+      internalID: 2385830456092776809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
