@@ -11,10 +11,31 @@ sysinfo.txt
 /Assets/AssetStoreTools*
 *.apk
 *.unitypackage
+
+*.DS_Store
+*/.DS_Store
+.DS_Store
+
+/*/.vs
+/*/Library
+/*/obj
+/*/Logs
+/*/Temp
+
+/*/metadata.json
+/*/LocalData
+/Scripts/node_modules
+/Build
+
+/*/*.csproj
+/*/*.sln
  
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
 # ===================================== #
+*.csproj
+*.sln
+
 [Ee]xported[Oo]bj/
 .vs/
 /*.userprefs
@@ -41,5 +62,3 @@ Icon?
 ehthumbs.db
 [Tt]humbs.db
 [Dd]esktop.ini
-Corridor/Library/ShaderCache/
-Corridor/Library/metadata/

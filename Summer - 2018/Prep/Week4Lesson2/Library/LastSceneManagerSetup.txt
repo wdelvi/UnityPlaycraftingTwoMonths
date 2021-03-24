@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/Scenes/3DExplorer.unity
-  isLoaded: 1
-  isActive: 1
